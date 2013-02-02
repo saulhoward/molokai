@@ -1,3 +1,11 @@
+*NB. This fork has some minor differences from tomasr's colourscheme:*
+
+ *1. The line numbers are more subdued*
+
+*-- saulhoward*
+
+***
+
 # Molokai Color Scheme for Vim
 
 Molokai is a Vim port of the monokai theme for TextMate originally created by Wimer Hazenberg.
