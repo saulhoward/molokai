@@ -193,7 +193,6 @@ if &t_Co > 255
    hi Special         ctermfg=81 
 
    hi Statement       ctermfg=161               cterm=bold
-   " hi StatusLine      ctermfg=238 ctermbg=253
    hi StatusLine      ctermfg=135 ctermbg=232
    hi StatusLineNC    ctermfg=244 ctermbg=232
    hi StorageClass    ctermfg=208
@@ -215,7 +214,7 @@ if &t_Co > 255
    hi Comment         ctermfg=59
    hi CursorColumn                ctermbg=234
    hi ColorColumn                 ctermbg=234
-   hi LineNr          ctermfg=250 ctermbg=234
+   hi LineNr          ctermfg=239 ctermbg=234
    hi NonText         ctermfg=59
    hi SpecialKey      ctermfg=59
 end
